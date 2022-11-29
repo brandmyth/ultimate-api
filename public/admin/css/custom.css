@@ -1,0 +1,37 @@
+.sidebar{
+    width: 270px;
+}
+.sidebar .nav.sub-menu{
+    padding: 0.25rem 0 0 2rem;
+}
+.btn-primary {
+    background-color: #0098b8;
+    border-color: #0098b8;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #6BBD46;
+    border-color: #6BBD46;
+}
+.active-nav{
+    background:#4B49AC !important; 
+    color: #ffffff !important;
+}
+.table td img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+}
+.add_button{
+    background-color: #6BBD46;
+    border-color: #6BBD46;
+    color: #ffffff;
+}
+.remove_button{
+    background-color: #ff1515;
+    border-color: #ff1515;
+    color: #ffffff;
+}
+.tox-statusbar, .tox-notifications-container{
+    display: none !important;
+}
